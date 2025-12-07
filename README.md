@@ -32,7 +32,7 @@ O código está organizado por tópicos para facilitar o acompanhamento do estud
 
 ## 🛠️ Requisitos
 
-* Java Development Kit (JDK) [VERSÃO, ex: 21]
+* **Java Development Kit (JDK):** A versão será definida em breve (recomenda-se uma versão LTS, como a 17 ou 21).
 * Uma IDE (ex: IntelliJ IDEA, VS Code).
 
 ## 🚀 Como usar
@@ -40,4 +40,4 @@ O código está organizado por tópicos para facilitar o acompanhamento do estud
 Clone este repositório e abra os diretórios na sua IDE para executar os exemplos:
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/Java-Learning-Journey.git](https://github.com/SEU_USUARIO/Java-Learning-Journey.git)
+git clone [https://github.com/cauasilva00/Java-Learning-Journey.git](https://github.com/cauasilva00/Java-Learning-Journey.git)
