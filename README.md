@@ -1,70 +1,43 @@
-# 🚀 Java Learning Journey
+# ☕ Java Learning Journey
 
-Este repositório é o meu espaço dedicado ao **aprendizado e prática da linguagem Java**. Meu objetivo é construir uma base sólida, desde a sintaxe inicial até conceitos avançados de Programação Orientada a Objetos (POO) e frameworks essenciais.
+Repositório dedicado ao meu **aprendizado da linguagem Java**.
 
-## 🎯 Objetivo Principal
+Este é um espaço de prática onde documentarei minha jornada, desde os fundamentos até a Programação Orientada a Objetos (POO) e tópicos mais avançados.
 
-Documentar minha jornada de aprendizado em Java e servir como um portfólio de código com exercícios resolvidos e pequenos projetos.
+## 🎯 Conteúdo
 
-## 📚 Tópicos Abordados
+O código está organizado por tópicos para facilitar o acompanhamento do estudo:
 
-A seguir estão os principais módulos e tópicos que estou explorando neste repositório:
+### 1. Fundamentos
+* Sintaxe básica (variáveis, loops, condicionais).
+* Arrays e manipulação de tipos.
 
-### I. Fundamentos da Linguagem
+### 2. Programação Orientada a Objetos (POO)
+* Classes, Objetos, Encapsulamento.
+* Herança e Polimorfismo.
 
-- Estruturas de controle (`if/else`, `switch`)
-- Laços de repetição (`for`, `while`, `do-while`)
-- Variáveis, Tipos de Dados e Operadores
-- Arrays e Coleções Básicas
+### 3. Tópicos Avançados
+* Manipulação de Exceções.
+* Streams e Arquivos (IO).
+* Desafios de código e pequenos projetos.
 
-### II. Programação Orientada a Objetos (POO)
+## 📁 Estrutura
 
-- Classes, Objetos e Construtores
-- Encapsulamento (`Getters` e `Setters`)
-- Herança e Interfaces
-- Polimorfismo e Sobrescrita (`@Override`)
-- Abstração
-
-### III. Tópicos Avançados
-
-- Manipulação de Exceções (`try-catch-finally`)
-- Generics
-- Streams e Manipulação de Arquivos (IO)
-- Outros tópicos (como Threads, JDBC, Lambdas)
-
-## 📁 Estrutura do Repositório
-
-Organizei o código em diretórios para facilitar a navegação.
-
-| Diretório | Conteúdo |
+| Diretório | Descrição |
 | :--- | :--- |
-| `01-Fundamentos` | Exercícios e exemplos básicos de sintaxe e lógica. |
-| `02-POO` | Implementações de classes, herança e interfaces. |
-| `03-Projetos` | Aplicações mais completas (ex: calculadora, sistema bancário simples). |
-| `04-Desafios` | Soluções para problemas de plataformas de código. |
+| `01-Basicos` | Exemplos e exercícios introdutórios. |
+| `02-POO` | Implementações de conceitos Orientados a Objetos. |
+| `03-Projetos` | Aplicações mais completas. |
+| `04-Testes` | Código de teste e desafios rápidos. |
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Requisitos
 
-- **Linguagem:** Java (ex: OpenJDK 21 LTS)
-- **IDE:** IntelliJ IDEA
-- **Ferramenta de Build (Opcional):** Maven
+* Java Development Kit (JDK) [VERSÃO, ex: 21]
+* Uma IDE (ex: IntelliJ IDEA, VS Code).
 
-## 💡 Como Executar os Projetos
+## 🚀 Como usar
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU_USUARIO/Java-Learning-Journey.git](https://github.com/SEU_USUARIO/Java-Learning-Journey.git)
-    ```
-2.  **Abra o projeto:** Importe o projeto na sua IDE preferida.
-3.  **Execute:** Navegue até o arquivo `.java` desejado (aquele que contém o método `main`) e execute-o.
+Clone este repositório e abra os diretórios na sua IDE para executar os exemplos:
 
----
-
-### Contato
-
-- **GitHub:** [@SEU_NOME_DE_USUARIO](https://github.com/SEU_NOME_DE_USUARIO)
-- **LinkedIn:** [Seu Nome no LinkedIn](SEU_LINK_DO_LINKEDIN)
-
----
-
-> ⭐️ Acompanhe meu progresso e sinta-se à vontade para dar *feedback*!
+```bash
+git clone [https://github.com/SEU_USUARIO/Java-Learning-Journey.git](https://github.com/SEU_USUARIO/Java-Learning-Journey.git)
