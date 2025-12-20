@@ -1,5 +1,3 @@
-# Jogo de Adivinhação de Números
+# Number Guessing Game
 
-Este é um projeto simples em Java onde o jogador deve adivinhar um número aleatório gerado pelo computador.
-
-Exemplo de solução para o Jogo de Adivinhação de Números de: https://roadmap.sh/projects/number-guessing-game
+Sample solution for the [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game) challenge from roadmap.sh.
